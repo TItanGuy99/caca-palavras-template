@@ -1,0 +1,25 @@
+{
+    "configuracoes": [{
+            "linhas": 10,
+            "colunas": 20
+        },
+        {
+            "palavra": "TESTE",
+            "linha": 2,
+            "coluna": 5,
+            "posicao": "horizontal"
+        },
+        {
+            "palavra": "LUIZ",
+            "linha": 3,
+            "coluna": 1,
+            "posicao": "vertical"
+        },
+        {
+            "palavra": "CELULAR",
+            "linha": 9,
+            "coluna": 0,
+            "posicao": "horizontal"
+        }
+    ]
+}

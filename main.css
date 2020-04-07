@@ -1,0 +1,28 @@
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    text-align: center;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+.mouseOFF {
+    pointer-events: none;
+}
+
+.markBackground {
+    background-color: yellow;
+}
+
+.unmarkBackground {
+    background-color: white;
+}
+
+.padding-top-10 {
+    padding-top: 10px;
+}
